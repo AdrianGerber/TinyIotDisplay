@@ -1,0 +1,2 @@
+# TinyViewDisplay
+Backup of an old project. This program was meant to be ran on an attiny2313 microcontroller that is connected to an ESP8266 module and a 4 digit 7 segment display. It will initiate communication with a thingspeak.com app and display a number that is in the response. With the current settings, it would show a youtube channel's total number of views. Please do not actually try and rebuild this project with the attiny2313 microcontroller, as there will only be 2 bytes of flash storage left after upload (= no modifications possible)
